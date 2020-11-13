@@ -4,6 +4,7 @@
 
 ### Pull Request Thoughts
 
-I completed the challenge: 5
-I feel good about my code: 5
-I found the sequence diagrams helpful.
+I completed the challenge: 5 <br/>
+I feel good about my code: 5 <br/>
+I found the sequence diagrams helpful. <br/>
+
