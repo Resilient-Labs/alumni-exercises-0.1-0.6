@@ -45,5 +45,5 @@ browser executes the event handler<br/>
 that renders notes to display<br/>
 **end note**<br/>
 
----
+----
 **Resource:** [Link to Web Sequence Diagram Resource](https://www.websequencediagrams.com/)
